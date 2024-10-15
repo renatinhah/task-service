@@ -1,0 +1,38 @@
+### Gradle ###
+.gradle/
+/build/
+/out/
+/!gradle/wrapper/gradle-wrapper.jar  # Certifica que o wrapper do Gradle seja versionado
+
+### IntelliJ IDEA ###
+.idea/
+/*.iws
+/*.iml
+/*.ipr
+/out/
+/*.log
+
+### Sistema Operacional ###
+.DS_Store
+Thumbs.db
+
+### VS Code ###
+.vscode/
+
+### Kotlin ###
+.kotlin/
+
+### Arquivos temporários ###
+*.log
+*.tmp
+*.swp
+
+# STS (Spring Tool Suite) #
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
